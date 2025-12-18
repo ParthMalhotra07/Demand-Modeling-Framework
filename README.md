@@ -100,7 +100,7 @@ All figures are available in the `figures/` directory.
 
 ```bash
 pip install numpy pandas matplotlib
-python src/bike_sharing_regression.py
+python bike_sharing_regression.py
 ```
 
 ---
