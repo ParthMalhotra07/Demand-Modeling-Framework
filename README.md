@@ -114,6 +114,3 @@ python bike_sharing_regression.py
 
 ---
 
-## Author
-
-Parth Malhotra
